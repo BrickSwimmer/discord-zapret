@@ -1,0 +1,2 @@
+domain.example.abc
+# BrickSwimmer/discord-zapret 03c2c61818d9
